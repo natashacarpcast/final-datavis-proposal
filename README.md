@@ -20,7 +20,7 @@ I intend to build on the work from previous assignments and add some new plots. 
 
 ![](sketches/page1.jpg)
 
-I plan to reuse plots from my Tableau assignment that illustrate the differences in morality scores across three subreddits. Additionally, I'll create a new plot using a new measure of morality (MoralBERT). My goal is to compare these measures and organize them effectively on the page. I'm still deciding on the best way to present them, but the aim is to demonstrate that the self-improvement subreddit consistently shows higher morality values across different measurement methods.
+I plan to reuse plots from my Tableau assignment that illustrate the differences in morality scores across three subreddits. Additionally, I'll create a new plot using a new measure of morality (MoralBERT). My goal is to compare these measures and organize them effectively on the page. I'm still deciding on the best way to present them, but the aim is to demonstrate that the self-improvement subreddit consistently shows higher morality values across different measurement methods. (The last one still needs further polishing to aggregate vice/virtue scores for each dimension and use the same colors as in the MFD lexicon based approach)
 
 ### Page 2 - Are there some specific topics within self improvement discussions that tend to be discussed with a higher moral tone?
 
