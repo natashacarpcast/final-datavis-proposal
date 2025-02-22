@@ -12,9 +12,6 @@ This repository contains an updated visual portfolio proposal for exploring the 
 
 Submissions and comments from the subreddit r/selfimprovement were analyzed to obtain topics on the corpus and scores of moralization language. The data and a more detailed explanation are available in the [data folder](data).
 
-put moralbert
-and all data
-
 ## Proposal
 
 I intend to build on the work from previous assignments and add some new plots. The final deliverable I envision is a website where the user can navigate through the three research questions and have a separate page for each of them. 
