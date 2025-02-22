@@ -23,7 +23,7 @@ I intend to build on the work from previous assignments and add some new plots. 
 
 [SCREENSHOT]
 
-For exploring this question I want to reuse the plots from the Tableau assignment, which showcase the difference in morality scores across 3 subreddits. Additionally, I want to add a new similar plot which corresponds to a new measure of morality (MoralBERT), so I can show the similarities and differences across the three ways of measurement. I'm still unsure on what's the best way to organize them/display on the page but the idea is for it to be something like above. The goal is to show that the self improvement subreddit shows higher values of morality consistently with different types of measures. 
+I plan to reuse plots from my Tableau assignment that illustrate the differences in morality scores across three subreddits. Additionally, I'll create a new plot using a new measure of morality (MoralBERT). My goal is to compare these measures and organize them effectively on the page. I'm still deciding on the best way to present them, but the aim is to demonstrate that the self-improvement subreddit consistently shows higher morality values across different measurement methods.
 
 ### Page 2 - Are there some specific topics within self improvement discussions that tend to be discussed with a higher moral tone?
 
@@ -36,17 +36,17 @@ For exploring this question I want to reuse the plots from the Tableau assignmen
 
 
 
-Although on my initial proposal suggested using bar plots for showing the distribution of topics, I believe I already have too many bar plots and this is one place where I can sacrifice them and use something more visually engagement. I'm thinking on bubble charts just to show a very vague idea of the proportions and allow the user to hover to get the total percentage of the corpus (and maybe some example documents?). In the end, the proportions are not the most important thing but they serve as an introduction to the topics for the subsequent graphs.
+Although my initial proposal suggested using bar plots to show the distribution of topics, I now feel I already have too many bar plots. This is one area where I can sacrifice some information and use something more visually engaging. I propose using bubble charts which don't allow for a perfect comparison, but give a general sense of what the topics are and their approximate proportions, with the option for users to hover over each bubble to see the total percentage of the corpus (and possibly see some example documents). This is a point of entry to the idea of topics. 
 
-In the same page, I want to display an interactive graph that allows the user to move from one moral dimension to another and visualize how different topics score in each dimension. Above you could see an example of the sanctity dimension but the idea will be to move from dimension to dimension. 
-
+Below that plot, I want to create an interactive graph that allows users to explore different moral dimensions. The idea is to let them switch from one dimension to another and see how various topics score in each. For instance, you can see an example of the sanctity dimension above, but the goal is for users to move seamlessly across all dimensions and see similar plots.
 
 ### Page 3 - How does the usage of moral language associate with different emotions in the context of self-improvement?
 
-
 [SCREENSHOT 3] 
 
-For this question, I want to reuse the plot from Assignment 3 where the reader can visualize that moral language is not related to negative emotion, but rather the topics are the ones that relate to the emotional tone of the content. Aditionally, I want to expand by adding a new plot (per topic) where the user can visualize the connotation of a word on a given topic, using the positive emotion and negative emotion scores as x and y axis. The idea is to show which words are mostly used on a positive context vs which ones on a negative context. This allows for a nuanced overview of the specific words used in moral language and how they differ by topic. The idea is that the user can move from topic to topic and see the top 10-20 moral words used in the given topic and their connotations. 
+For this question, I want to reuse the plot from Assignment 3, which illustrates that moral language isn't directly related to negative emotion. Instead, the topics themselves are what relate to the emotional tone of the content. 
+
+Additionally, I plan to expand on this by adding a new plot for each topic, where the user can visualize the connotation of words based on their positive and negative emotion scores on the x and y axes. The goal is to show which words are predominantly used in positive contexts versus negative ones. This will provide a nuanced overview of the specific words used in moral language and how they vary across topics. Users will be able to move from topic to topic and explore the top 10-20 moral words used in each topic and their emotional connotations.
 
 
 
